@@ -1,0 +1,12 @@
+# Credentials — never commit these
+firmware/esp32_telemetry/secrets.h
+firmware/uno_security/config.h
+
+# Build output
+build/
+*.hex
+*.elf
+
+# OS noise
+.DS_Store
+Thumbs.db
