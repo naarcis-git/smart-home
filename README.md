@@ -5,7 +5,7 @@ A 3D-printed model house with a working alarm system inside it — motion, door 
 Bachelor's thesis, Faculty of Robotics, Politehnica University of Timisoara, 2022.
 Design, electronics and firmware: **Eng. Narcis Pantea**.
 
-**📄 Project page → https://YOUR-USERNAME.github.io/smart-home/**
+**📄 Project page → https://naarcis-git.github.io/smart-home/**
 
 ---
 
